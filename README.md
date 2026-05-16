@@ -8,7 +8,7 @@ Single page world travel website
 
 ### Author Links
 
-👋 Hello, I'm Ikram Ul Haq - Web Developer & Programmer
+👋 Hello, I'm habo-705 - Web Developer & Programmer
 
 ☕ [Buy Me A Coffee](https://www.buymeacoffee.com/ikramdeveloper)
 
