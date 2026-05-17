@@ -52,4 +52,4 @@ Single page world travel website
 
 ### Copyright
 
-- © 2022  habo-705- Images and text may have copyright issues
+- © 2025  habo-705- Images and text may have copyright issues
